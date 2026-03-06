@@ -1,130 +1,162 @@
-<h1 align="center">Hi 👋, I'm Tushar Agrawal</h1>
-<h3 align="center">Blockchain & Backend Engineer</h3>
+<div align="center">
 
-<p align="center">
-Building decentralized systems, backend infrastructures, and developer tools.
+# Hi 👋 I'm Tushar Agrawal
+
+### Blockchain & Backend Engineer
+
+Building decentralized systems, backend infrastructures and developer tools.
+
+<p>
+<a href="https://github.com/tusharagrawal3011">
+<img src="https://komarev.com/ghpvc/?username=tusharagrawal3011&label=Profile%20views&color=0e75b6&style=flat" />
+</a>
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+- 🔗 Blockchain & Backend Developer with **2+ years experience**
+- ⚙️ Developed **30+ smart contracts** in **Solidity and Rust**
+- 🧠 Built systems using **Account Abstraction (ERC-4337), Paymasters & Bundlers**
+- 🌐 Developed **dApps, backend APIs, and blockchain infrastructure**
+- 🧩 Interested in **AI systems, backend architectures, and developer platforms**
+
+---
+
+# 🚀 Tech Stack
+
+### Blockchain
+
+<p>
+<img src="https://skillicons.dev/icons?i=solidity,rust,ethereum" />
+</p>
+
+- Smart Contracts  
+- DeFi Protocols  
+- Account Abstraction (ERC-4337)  
+- Multi-chain infrastructure
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- REST APIs  
+- JWT Authentication  
+- Microservices  
+- API documentation (Swagger)
+
+### Databases & Infra
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,aws" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman,linux" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔗 Blockchain & Backend Developer with **2+ years of experience**
-- ⚙️ Built **30+ smart contracts** across Ethereum and Cosmos ecosystem
-- 🧠 Working with **Account Abstraction (ERC-4337), Paymasters, Bundlers**
-- 🌐 Developing **dApps, backend APIs, and blockchain integrations**
-- 🏗 Interested in **system design, AI tools, and developer platforms**
-
----
-
-## 🚀 What I Work With
-
-### Blockchain
-- Solidity
-- Rust
-- Ethereum
-- Cosmos
-- Solana
-- Smart Contracts
-- DeFi Protocols
-- Account Abstraction (ERC-4337)
-
-### Backend
-- Node.js
-- Express
-- REST APIs
-- JWT Authentication
-- Swagger Documentation
-- Microservices Architecture
-
-### Databases & Infrastructure
-- MongoDB
-- PostgreSQL
-- Redis
-- Docker
-- AWS
-- Cloudflare
-
-### Tools
-- Hardhat
-- Foundry
-- Jest
-- Git
-- Postman
-
----
-
-## 🧩 Projects
+# 🧩 Featured Projects
 
 ### 🔹 Multi-Chain Staking Platform
+
 A staking infrastructure supporting **Ethereum, Cosmos, and Solana**.
 
-Features:
+**Highlights**
+
 - Native & liquid staking
 - Validator integrations
-- Backend reward tracking
 - Smart contract reward distribution
+- Backend reward calculation services
+
+---
+
+### 🔹 SinQlarity – dApp Integration Platform
+
+A platform enabling developers to **purchase blockchain functionalities and integrate them into web applications**.
+
+**Highlights**
+
+- Modular blockchain services
+- Developer integration SDK
+- Web3 feature marketplace
 
 ---
 
 ### 🔹 NFT Platform for Sports Merchandise
-Platform where users received **sports jerseys as NFTs**.
 
-Features:
-- NFT minting
-- Metadata management
+A platform where users receive **sports jerseys as NFTs**.
+
+**Highlights**
+
+- NFT minting infrastructure
+- Metadata storage
 - Wallet integrations
 - Ownership verification
 
 ---
 
-### 🔹 SinQlarity – dApp Integration Platform
-A platform enabling developers to **purchase blockchain functionalities and integrate them directly into web apps**.
-
-Features:
-- Modular blockchain features
-- Developer integration SDK
-- Web3 functionality marketplace
-
----
-
 ### 🔹 Verifiable Certification System
-A blockchain system that **mints certificates as NFTs** after admin approval.
 
-Features:
-- Event-based metadata
+Blockchain powered system that **mints certificates as NFTs** after admin approval.
+
+**Highlights**
+
 - IPFS storage
 - On-chain verification
+- Event metadata
 - DID-linked student dashboard
 
 ---
 
-## 📚 Currently Exploring
+# 🧠 Currently Exploring
 
-- AI + Developer Tools
-- Autonomous AI systems
-- Blockchain infrastructure
-- Production-ready backend architectures
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
+- AI powered developer tools  
+- Autonomous AI systems  
+- Production ready backend architectures  
+- AI powered interview platforms
 
 ---
 
-## 🤝 Connect With Me
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tusharagrawal3011&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharagrawal3011&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharagrawal3011&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🤝 Connect With Me
 
 - 💼 LinkedIn
 - 🌐 Portfolio (Coming Soon)
 
 ---
 
-⭐ *Always building, always learning.*
+<div align="center">
+
+⭐ Always building systems that live on-chain.
+
+</div>
